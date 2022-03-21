@@ -11,7 +11,7 @@ graph TD;
     Abuelo-->Padre;
     Padre-->Hijo;
     Hijo-->nieto;
-``
+```
 1. Se abre la terminal de linux y para saber en que directorio esta ubicado, se ejecuta el comando  ``` pwd ```
 2. se dirige a la ruta donde desea almacenar los archivos que se crearán, para el siguiente caso, se cuenta con una carpeta llamada 'Taller1' la cual esta dentro de la carpeta documentos; asi  que se ejecuta el comando ``` cd /Documentos ``` y posterior a ello, ``` cd taller1/ ```
 3. Para iniciar, con el comando ``` mkdir abuelo ``` creo la carpeta abuelo
