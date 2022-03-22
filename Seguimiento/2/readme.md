@@ -2,7 +2,8 @@
 # Desarrollo de actividad 2
 ###### 1. Recuperar o modificar contraseña de usuario root
 
-1. Se reinicia la maquina con el fin de interrumpir el arranque. Segun las indicaciones de la distro, para fedora se interrumpe presionando ***fn + f12***
+1. Se reinicia la maquina con el fin de interrumpir el arranque. Segun las indicaciones de la distro, para fedora se interrumpe presionando ***fn + f12*** 
+
 ![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/66a2173f78a956a902c06238b187956df765496d/Seguimiento/1/Taller1Linux/Captura9.PNG)
 
 2. Posterior a ello, se presiona ***ctrl + e*** para modificar las opciones de boot; en la linea 5 de la siguiente imagen, se puede visualizar como se añade la directiva ´´´ rd.break ´´´ en las opciones de arranque del sistema, en la linea donde se visualiza ´´´ rhgb quiet ´´´  asi parar el proceso de arranque del sistema antes de comenzar a montar filesystems; ´´´ ctrl + x ´´´ para ejecutar las opciones indicadas.
