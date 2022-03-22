@@ -4,22 +4,22 @@
 
 1. Se reinicia la maquina con el fin de interrumpir el arranque. Segun las indicaciones de la distro, para fedora se interrumpe presionando ***fn + f12*** 
 
-![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/66a2173f78a956a902c06238b187956df765496d/Seguimiento/1/Taller1Linux/Captura9.PNG)
+![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/f9be62c1d4fa1ff388d631e6d2aa7ff67bc104b4/Seguimiento/2/Taller2Linux/Captura9.PNG)
 
 2. Posterior a ello, se presiona ***ctrl + e*** para modificar las opciones de boot; en la linea 5 de la siguiente imagen, se puede visualizar como se añade la directiva ´´´ rd.break ´´´ en las opciones de arranque del sistema, en la linea donde se visualiza ´´´ rhgb quiet ´´´  asi parar el proceso de arranque del sistema antes de comenzar a montar filesystems; ´´´ ctrl + x ´´´ para ejecutar las opciones indicadas.
 
-![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/66a2173f78a956a902c06238b187956df765496d/Seguimiento/1/Taller1Linux/Captura11.PNG)
+![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/f9be62c1d4fa1ff388d631e6d2aa7ff67bc104b4/Seguimiento/2/Taller2Linux/Captura11.PNG)
  
  
 4. Se presiona continuar
 5. En la consola se ejecuta el comando ´´´ chroot /sysroot´´´  para 
 
-![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/66a2173f78a956a902c06238b187956df765496d/Seguimiento/1/Taller1Linux/Captura11.PNG)
+![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/f9be62c1d4fa1ff388d631e6d2aa7ff67bc104b4/Seguimiento/2/Taller2Linux/Captura13.PNG)
 
 
-![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/66a2173f78a956a902c06238b187956df765496d/Seguimiento/1/Taller1Linux/Captura11.PNG)
+![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/66a2173f78a956a902c06238b187956df765496d/Seguimiento/1/Taller1Linux/Captura14.PNG)
 
-3. 
+
 ###### 2. Modificar el arbol genealogico creado en el taller #1 para agregar las carpetas bisabuela y bisabuelo con sus respectivos archivos .txt
 
 ###### Se deben mover todos los archivos .txt de la jerarquia materna a la paterna, de igual forma se deben mover los archivos .txt de la jerarquia paterna a la materna.
