@@ -6,6 +6,8 @@
 ###### Se deben mover todos los archivos .txt de la jerarquia materna a la paterna, de igual forma se deben mover los archivos .txt de la fajerarquia paterna a la materna.
 ***Ejemplo:***
 
+![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/66a2173f78a956a902c06238b187956df765496d/Seguimiento/1/Taller1Linux/Captura7.PNG)
+
 El archivo hector_orlay.txt moverlo del directorio abuelo al directorio abuela y el archivo luz.txt moverlo del directorio abuela al directorio abuelo
 ## Orden de arbol paterno
 
