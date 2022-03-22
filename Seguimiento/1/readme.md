@@ -28,7 +28,7 @@ graph TD;
 ## ``` cd XXXXXXX ``` para navegar o dirigirse a la carpeta deseada
 ## ``` mkdir XXXXXXX ``` para crear una carpeta o directorio
 ## ``` vi XXXXXXX.txt ``` para crear un documento 
-## Para editar un documento se debe presionar la tecla **Insert** y asi se habilitará el modo edición y una vez se termine de editar y se quiera salir, sedebe presionar la tecla **Esc**
+### Para editar un documento se debe presionar la tecla **Insert** y asi se habilitará el modo edición y una vez se termine de editar y se quiera salir, sedebe presionar la tecla **Esc**
 ## ``` :wq! ``` para guardar y salir del documento editado
 
 
