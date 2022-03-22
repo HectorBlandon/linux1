@@ -17,7 +17,7 @@
 ![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/f9be62c1d4fa1ff388d631e6d2aa7ff67bc104b4/Seguimiento/2/Taller2Linux/Captura13.PNG)
 
 
-![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/66a2173f78a956a902c06238b187956df765496d/Seguimiento/1/Taller1Linux/Captura14.PNG)
+![Imagen Arbol genealogico taller1](https://github.com/HectorBlandon/linux1/blob/f9be62c1d4fa1ff388d631e6d2aa7ff67bc104b4/Seguimiento/2/Taller2Linux/Captura14.PNG)
 
 
 ###### 2. Modificar el arbol genealogico creado en el taller #1 para agregar las carpetas bisabuela y bisabuelo con sus respectivos archivos .txt
