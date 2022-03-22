@@ -38,7 +38,7 @@ graph TD;
 3. Para iniciar, con el comando ``` mkdir abuelo ``` creo la carpeta abuelo
 4. Para ingresar a la carpeta abuelo, se ejecuta el comando ``` cd abuelo/ ```, una vez este en dicha carpeta se procede a crear la carpeta padre con el comando ``` mkdir padre ```.
 5. ![Imgen primeros pasos descritos](https://github.com/HectorBlandon/linux1/blob/e180dcc684adf2b95a292b181ac672b6a4b4cb4b/Seguimiento/1/Taller1Linux/Captura1.PNG)
-6. En el taller, se pide crear un archivo con la información de cada miembro del arbol genealogico que se esta creando; por ende, se ejecuta el comando ``` vi hector_orlay.txt ``` el cual abrirá un archivo nuevo. PAra editar el archivo se presiona la tecla ***Insert*** y esta habilitará el modo escritura.
+6. En el taller, se pide crear un archivo con la información de cada miembro del arbol genealogico que se esta creando; por ende, se ejecuta el comando ``` vi hector_orlay.txt ``` el cual abrirá un archivo nuevo. Para editar el archivo se presiona la tecla ***Insert*** y esta habilitará el modo escritura.
 7. Ingresa los datos del formato indicado al inicio del redme (Nombre, Apellido, Estatura) y para guardar se presiona la tecla **Esc** luego ``` :wq!``` para guardar el archivo hector_orlay.txt editado. 
 8. ***NOTA*** ':w' indica guardar del archivo, concatenado 'q' se le esta indicando que desea salir del archivo y el signo ``` ! ```, esta indicando que desea hacerlo de forma forzada (en el ejercicio se indico ! para que el comando :wq no solicitará confirmacion de la accion)
 9.  La siguiente imagen es un ejemplo de los pasos 6 y 7
