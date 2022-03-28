@@ -19,7 +19,7 @@
 
 ![Imagen comando bisabuela.tar](https://github.com/HectorBlandon/linux1/blob/b0cafcb614c05bf2ff65bc80ff019347d810d315/Seguimiento/3/taller3/captura1.png)
 
-Se observa que para la imagen anterior, se indico despues del tar un **.** y esto indica la ruta actual (la ruta es la misma donde se esta ejecutando el comando)
+Se observa que para la imagen anterior, se indico despues del tar un   **.**   y esto indica la ruta actual (la ruta es la misma donde se esta ejecutando el comando)
 
 ![Imagen comando bisabuelo.tar](https://github.com/HectorBlandon/linux1/blob/b0cafcb614c05bf2ff65bc80ff019347d810d315/Seguimiento/3/taller3/captura2.png)
 
