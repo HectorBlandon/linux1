@@ -4,11 +4,11 @@
 ###### Para la parctica, se usaran los comandos:
 ## ``` tar -cvf nombreDirectorio.tar /ruta ``` para comprimir un directorio 
 ###### Donde:
-###### -c  se usa para indicar que se debe crear un nuevo archivo
-###### v  PAra observar el comportamiento mediante verbose,logs
-###### f indica que el siguiente dato es el nombre del comprimido
-###### x Se usa para descomprimir un archivo
-###### -C Se usa para especificar la ruta donde se desea agregar el comprimido  (Recordar que la C es mayuscula)
+###### -c      se usa para indicar que se debe crear un nuevo archivo
+###### v      Para observar el comportamiento mediante verbose,logs
+###### f      indica que el siguiente dato es el nombre del comprimido
+###### x      Se usa para descomprimir un archivo
+###### -C     Se usa para especificar la ruta donde se desea agregar el comprimido  (Recordar que la C es mayuscula)
 
 ## ``` tar -xvf nombreDirectorio.tar /ruta ``` para descomprimir un directorio
 
