@@ -45,8 +45,8 @@ sudo passwd laura
 sudo passwd diana
 
 ``` 
-![Imagen creacion de usuarios](https://github.com/HectorBlandon/linux1/blob/b0cafcb614c05bf2ff65bc80ff019347d810d315/Seguimiento/3/taller3/captura4.png)
-![Imagen creacion de usuarios](https://github.com/HectorBlandon/linux1/blob/b0cafcb614c05bf2ff65bc80ff019347d810d315/Seguimiento/3/taller3/captura5.png)
+![Imagen creacion de usuarios](https://github.com/HectorBlandon/linux1/blob/c37d3cc2cf6cce3525cfc6c442ea8811d0c5b80f/Seguimiento/4/taller4Linux/captura4.png)
+![Imagen creacion de usuarios](https://github.com/HectorBlandon/linux1/blob/c37d3cc2cf6cce3525cfc6c442ea8811d0c5b80f/Seguimiento/4/taller4Linux/captura5.png)
 ###### 5. Se asignan los usuarios creados a los grupos pertenecientes como indica la guia del taller:
 "Conociendo que: diana es un profesor; laura es una estudiante y
 claudia es un profesor y un estudiante.
@@ -60,4 +60,4 @@ sudo usermod  -gprofesor  diana
 sudo usermod  -g estudiante claudia
 ``` 
 ###### Para validar que hayan sido asignados correctamente, se pueden evidenciar los grupos a los que pertenece un usuario con el comando ``` groups laura ``` , ``` groups diana ``` , ``` groups claudia ```
-![Imagen agregar usuarios a grupos](https://github.com/HectorBlandon/linux1/blob/b0cafcb614c05bf2ff65bc80ff019347d810d315/Seguimiento/3/taller3/captura6.png)
+![Imagen agregar usuarios a grupos](https://github.com/HectorBlandon/linux1/blob/c37d3cc2cf6cce3525cfc6c442ea8811d0c5b80f/Seguimiento/4/taller4Linux/captura6.png)
